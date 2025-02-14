@@ -1,0 +1,3 @@
+[submodule "SubTestProject"]
+	path = SubTestProject
+	url = https://github.com/tolchev/SubTestProject.git
